@@ -20,8 +20,8 @@
 |[week11.c](https://github.com/ryusuke920/AlgorithmAndDataStructure/blob/main/AssignmentSubmissionCode/week11.c)|整列（ソート）1|
 |[week12.c](https://github.com/ryusuke920/AlgorithmAndDataStructure/blob/main/AssignmentSubmissionCode/week12.c)|整列（ソート）2|
 |[week13.c](https://github.com/ryusuke920/AlgorithmAndDataStructure/blob/main/AssignmentSubmissionCode/week13.c)|木構造|
-|week14は課題が出ませんでした|整列（ソート）3|
-|week15は課題が出ませんでした|平衡木|  
+|week14は課題なし|整列（ソート）3|
+|week15は課題なし|平衡木|  
 
 ※ 上記の授業計画の Contents は
 [シラバス](https://student.fun.ac.jp/up/faces/up/km/pKms0804A.jsp?sanshoTblFlg=1&nendo=2020&jugyoCd=112101)をもとに掲載しています
