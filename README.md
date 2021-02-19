@@ -1,7 +1,7 @@
 # AlgorithmAndDataStructure
 2年前期のアルゴリズムとデータ構造の講義のコードです
 
-## [AlgorithmAndDataStructure](https://github.com/ryusuke920/tex/blob/main/%E6%AF%8E%E6%97%A5%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%BC%8F/problem/day_1.pdf)
+## [AssignmentSubmissionCode](https://github.com/ryusuke920/tex/blob/main/%E6%AF%8E%E6%97%A5%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%BC%8F/problem/day_1.pdf)
 毎週出されるかなり憂鬱な問題を解いたコードです
 
 ### 授業計画
@@ -25,3 +25,6 @@
 
 ※ 上記の授業計画の Contents は
 [シラバス](https://student.fun.ac.jp/up/faces/up/km/pKms0804A.jsp?sanshoTblFlg=1&nendo=2020&jugyoCd=112101)をもとに掲載しています
+
+## [PdfOfAssignmentsInClass](https://github.com/ryusuke920/AlgorithmAndDataStructure/tree/main/PdfOfAssignmentsInClass)
+毎週の講義中に出されるよくわかんない課題のpdfです
